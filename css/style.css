@@ -15,5 +15,9 @@ header small {
   border: 1px solid silver;
   margin-top: 10px;
   height: 60vh;
-  border:1px solid red;
+}
+
+.content span {
+  font-size: 14px;
+  color: purple;
 }
