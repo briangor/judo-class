@@ -8,7 +8,7 @@ header {
 
 header small {
  color: silver;
- margin-top: 0px;
+ margin-top: -10px;
 }
 
 .content{
@@ -19,5 +19,4 @@ header small {
 
 .content span {
   font-size: 14px;
-  color: purple;
 }
