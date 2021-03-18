@@ -1,1 +1,16 @@
+body{
+ background-image:linear-gradient (130deg, silver, skyblue);
+}
 
+header {
+ text-align:center;
+}
+
+header small {
+ color: silver;
+}
+
+.content{
+  border: 1px solid silver;
+  margin-top: 10px;
+}
