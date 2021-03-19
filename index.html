@@ -19,7 +19,7 @@
       <h4>List of Squad</h4>
       <input type="text" ng-model="search" value="search"/>
       <ul>
-        <li ng-repeat="x in squad">{{x}}</li>
+        <li ng-repeat="x in squad | filter : search">{{x}}</li>
       </ul>
     </div>
       
