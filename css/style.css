@@ -27,3 +27,7 @@ input[type=text]{
  height: 24px;
  width: 200px;
 }
+
+ol.a1 {
+ list-style-type: decimal;
+}
