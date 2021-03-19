@@ -23,5 +23,7 @@ header small {
 
 input[type=text]{
  outline:none;
- border: 1px solid red;
+ border-radius: 5px;
+ height: 24px;
+ width: 200px;
 }
