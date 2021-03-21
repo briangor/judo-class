@@ -27,6 +27,9 @@ header small {
 input[type=text]{
  outline:none;
  border: 1px solid silver;
+ height: 24px;
+ width: 200px;
+ border-radius: 5px;
  
 }
 
@@ -40,6 +43,7 @@ ol.a1 {
  height: 24px;
  width: 200px; 
 }
+
 
 .btn{
  border: none;
