@@ -17,6 +17,7 @@ header small {
   height: 60vh;
   width: 80vw;
   margin: auto;
+  padding: 24px;
 }
 
 .content span {
@@ -47,6 +48,8 @@ ol.a1 {
 .btn-save{
   width: 100px;
   height: 24px;
+  border: 1px solid #30a64f;
   border-radius: 5px;
-  background-color: #30a64f;
+  background-color: #fff;
+  color: #30a64f;
 }
