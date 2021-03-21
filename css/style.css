@@ -53,4 +53,10 @@ ol.a1 {
   border-radius: 5px;
   background-color: #fff;
   color: #30a64f;
+  margin-left: 12px;
+}
+
+.btn-save:hover{
+ color: #fff;
+ background-color: #30a64f;
 }
