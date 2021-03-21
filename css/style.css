@@ -23,12 +23,28 @@ header small {
 
 input[type=text]{
  outline:none;
- border: 1px solid #000;
- border-radius: 5px;
- height: 24px;
- width: 200px;
+ 
 }
 
 ol.a1 {
  list-style-type: decimal;
+}
+
+.search-field{
+ border: 1px solid #000;
+ border-radius: 5px;
+ height: 24px;
+ width: 200px; 
+}
+
+.btn{
+ border: none;
+ 
+}
+
+.btn-save{
+  width: 100px;
+  height: 24px;
+  border-radius: 5px;
+  background-color: #30a64f;
 }
