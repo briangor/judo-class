@@ -1,1 +1,1 @@
-# judo-class
+# Judo Class
